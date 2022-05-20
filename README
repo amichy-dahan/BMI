@@ -1,0 +1,11 @@
+Amichy Dahan ID 314845025, amichyd1@gmail.com
+Second year, Computer Science Department- Ashqelon College
+
+the main in the ControllerBMI class !!!!
+
+התוכנית מאפשרת למשתמש להכניס את פרטיו האישיים , כולל גיל , משקל , גובה ומחשבת את ה BMI שלו 
+יש שלוש מחלקות בתוכנית 
+
+ControllerBMI המחלקה הראשית שמציגה את התוכנית.
+ViewBMI המחלקה שמחזיקה את כל משתנים , והפאנלים,והאובייקטים , כמו כן גם הפונקציות. 
+ModelBMI המחלקה שמחזיקה קבועים של הפונצקיה שמחשבת את המשקל האידיאלי.
